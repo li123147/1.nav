@@ -162,7 +162,7 @@ body {
   align-items: center;
 }
 .style {
-  background-image: url("/images/nav.jpg");
+  background-image: url("/nav.767d1cbf.jpg");
   background-position: center 0;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -172,3 +172,6 @@ body {
   -moz-background-size: cover;
   -ms-background-size: cover;
 }
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
